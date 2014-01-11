@@ -3,3 +3,5 @@
 Create git renaming test data for working with rename support in vc-git.el.
 
 This repository has commits that are just changes to single files, changes to multiple files, just renames, and renames of one file, while a different file is changed.
+
+This can be useful for testing.
